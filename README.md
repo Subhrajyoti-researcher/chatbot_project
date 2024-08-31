@@ -41,6 +41,3 @@ Subhrajyoti Mandal, an AI enthusiast and developer with experience in natural la
 - **Model Fine-Tuning**: Fine-tuning the LLaMA model on custom datasets for more specific use cases.
 - **Deployment**: Extending the project for deployment on cloud platforms such as AWS or Heroku to make the chatbot accessible online.
 
----
-
-This description can be used in the `README.md` file of your GitHub repository or in any project documentation platform like Notion.
